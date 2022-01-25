@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Endpoint1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AzureServiceBus_ConnectionString": "<your endpoint>"
+      }
+    }
+  }
+}
